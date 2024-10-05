@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASIMmondalAVI
 - 👀 I’m interested in Robotics.
-- 🌱 I’m currently learning Arduino codeing.
+- 🌱 I’m currently learning Arduino coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - www.linkedin.com/in/asim-mondal-avi-56a2592a2
